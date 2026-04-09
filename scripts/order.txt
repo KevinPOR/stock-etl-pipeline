@@ -1,0 +1,14 @@
+# 1. Fetch data from Yahoo Finance -> Saves to data/raw/
+python scripts/ingestion.py
+
+db.py
+
+# 2. Load CSVs -> Saves to Postgres (Table: stock_data)
+python scripts/load_to_postgres.py
+
+dim_tickers.py
+
+# 3. Clean & Transform -> Saves to Postgres (Table: fact_stock_prices)
+python scripts/transform.py
+
+auto_refresh.py

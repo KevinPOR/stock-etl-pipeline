@@ -1,0 +1,8 @@
+# --- Core Data Logic (Required) ---
+yfinance
+pandas
+sqlalchemy
+psycopg2-binary
+
+# --- Orchestration (Required only for Airflow DAGs) ---
+apache-airflow

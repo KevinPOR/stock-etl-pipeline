@@ -9,8 +9,10 @@ venv/
 .env/
 
 # Data files
-data/raw/
 data/processed/
+
+# Ignore notebooks folder
+notebooks/
 
 # Logs
 *.log
