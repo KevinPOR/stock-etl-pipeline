@@ -242,15 +242,11 @@ This measure ensures the latest available closing price is shown even when marke
 
 ### 🌞 Light Mode
 
-<p align="center">
-  <img src="screenshots/light_mode.png" width="700">
-</p>
+![Light Mode Dashboard](screenshots/light_mode.png)
 
 ### 🌙 Dark Mode
 
-<p align="center">
-  <img src="screenshots/dark_mode.png" width="700">
-</p>
+![Dark Mode Dashboard](screenshots/dark_mode.png)
 
 ---
 
